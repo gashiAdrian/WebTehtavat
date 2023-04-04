@@ -1,0 +1,14 @@
+node ./index.mjs
+
+a. Mitä eroa on export:lla ja export default:lla?
+b. Miksi tarvitaan pääte .mjs?
+
+Vastaukset:
+
+Molemmat tapoja määritellä moduulin vienti.
+
+export- lauseke mahdollistaa tiettyjen funktioiden, muuttujien tai luokkien viennin toisista tiedostoista käytettäväksi.
+
+export default- lauseke mahdollistaa vain yhden viennin per tiedosto, joka on nimetty "dfefault".
+
+node ./activity2.js
