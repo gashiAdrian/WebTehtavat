@@ -1,0 +1,32 @@
+{
+  "people": [
+    {
+      "first": "Matti",
+      "last": "Näsä",
+      "age": 45,
+      "skills": ["HTML", "CSS", "Office360", "JavaScript"],
+      "hobbies": ["boxing", "singing","skiing"]
+    },
+    {
+      "first": "Raimo",
+      "last": "Vormisto",
+      "age": 53,
+      "skills": ["Facebook", "Instagram", "LibreOffice", "JavaScript"],
+      "hobbies": ["walking", "aerobic"]
+    },
+    {
+      "first": "Timo",
+      "last": "Silakka",
+      "age": 32,
+      "skills": ["Multitalent"],
+      "hobbies": ["jogging", "triathlon"]
+    },
+    {
+      "first": "Adrian",
+      "last": "Gashi",
+      "age": 29,
+      "skills": ["HTML", "CSS", "Office360"],
+      "hobbies": ["workout", "reading", "swimming"]
+    }
+  ]
+}

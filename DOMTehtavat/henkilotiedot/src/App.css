@@ -1,0 +1,30 @@
+#root {
+  max-width: 100%;
+  margin: 0 auto;
+  background-color: beige;
+  color: black;
+}
+
+.App {
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.profile {
+  border: 25px solid #004080;
+  padding: 1em;
+  margin-right: 0;
+  margin-top: 5px;
+  max-width: 100%;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.profile img {
+  max-width: 80%;
+  height: auto;
+}
